@@ -35,9 +35,6 @@ A modern desktop calculator built using **Python** and **PyQt5**. It features a 
 ### Resized Window
 
 ![Calculator Resized Window](screenshots/resized.png)
-
-> Replace these images with your own screenshots.
-
 ---
 
 ## Project Structure
