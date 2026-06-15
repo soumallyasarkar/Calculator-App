@@ -45,10 +45,14 @@ A modern desktop calculator built using **Python** and **PyQt5**. It features a 
 ```text
 Calculator-App/
 │
+├── dist/main.exe
 ├── main.py
 ├── calculator.ico
 ├── requirements.txt
 ├── README.md
+├── screenshots/
+│   ├── main.png
+│   └── resized.png
 └── .gitignore
 ```
 
